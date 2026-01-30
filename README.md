@@ -7,7 +7,7 @@ Ez a repository a **m1lohka.hu** weboldalhoz és a **m1loohka** GitHub fiókhoz 
 👉 https://m1lohka.hu
 
 ## 🧑‍💻 GitHub
-👉 https://github.com/m1loohka
+👉 https://github.com/M1loohka
 
 ---
 
@@ -40,4 +40,4 @@ Eltérő megjelölés hiányában a tartalom **nem szabadon felhasználható**.
 
 ---
 
-Készítette: **m1loohka**
+Készítette: **M1loohka**
