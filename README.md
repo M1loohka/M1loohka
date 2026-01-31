@@ -1,7 +1,7 @@
 # m1lohka.hu
 
 👋 Üdv!  
-Ez a repository a **m1lohka.hu** weboldalhoz és a **m1loohka** GitHub fiókhoz kapcsolódó fejlesztéseket tartalmazza.
+
 
 ## 🌐 Weboldal
 👉 https://m1lohka.hu
@@ -27,16 +27,12 @@ Ez a repository a **m1lohka.hu** weboldalhoz és a **m1loohka** GitHub fiókhoz 
 
 ---
 
-## 📁 A repository célja
-- a **m1lohka.hu** weboldalhoz kapcsolódó forráskód
-- kísérleti és tanulási projektek
-- nyílt vagy privát fejlesztések gyűjtőhelye
+## 
 
 ## 🚀 Állapot
 🟡 Aktív fejlesztés / folyamatos bővítés
 
-## 📄 Licenc
-Eltérő megjelölés hiányában a tartalom **nem szabadon felhasználható**.
+
 
 ---
 
