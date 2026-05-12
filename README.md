@@ -5,6 +5,7 @@
 
 ## 🌐 Weboldal
 👉 https://m1lohka.hu
+👉 https://kiadasokosan.hu
 
 ## 🧑‍💻 GitHub
 👉 https://github.com/M1loohka
